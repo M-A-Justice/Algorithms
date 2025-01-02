@@ -45,4 +45,3 @@ var rockPaperScissors = function (rounds) {
   // returns games
   return games;
 };
-

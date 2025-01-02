@@ -47,3 +47,5 @@ const arrangeCoins = function(n) {
   }
   return arrangeCoins(n, stair += 1);
 };
+
+console.log(arrangeCoins(5));
